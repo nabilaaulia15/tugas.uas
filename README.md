@@ -161,6 +161,7 @@ https://miraclesiriusa.wordpress.com/2023/12/30/mengeksplorasi-seluruh-profesi-t
 44.Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐ 
 https://www.duolingo.com/profile/hanniphammmm
 Eksplorasi Tools Untuk Belajar Bahasa Inggris Duolingo
+https://youtu.be/vASBr6_ytSA?si=scvmckmKQyb6dQUV
 
 45.Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 https://youtu.be/tsj_0Hu53_E?si=Z8AtEbd_GDmcO0Lw
