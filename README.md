@@ -6,18 +6,12 @@ https://miraclesiriusa.wordpress.com/2023/12/30/menjelaskan-dan-menginternalisas
 https://miraclesiriusa.wordpress.com/2023/12/30/menjelaskan-jenis-jenis-mesin-komputasi/
 
 3.Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐ 
-Mengktifkan dan Mencoba Google Colab
-
-
-
+https://youtu.be/M9WYzBURKjc?si=y4RmzVOYu_OgnRZ2
 
 4.Mencoba Console Sistem Operasi
 Windows CMD [v] ⭐⭐⭐⭐ 
 Referensi 1
-Mencoba Console Sistem Operasi
-
-
-
+https://youtu.be/4WSQXmMu4Cg?si=012mEsZ4Tkw0A-_0
 
 5.Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 https://drive.google.com/file/d/13Asid-qIU36V16t4k1bbh1mAOoQNSrnM/view?usp=sharing
@@ -27,12 +21,9 @@ Referensi 1
 https://miraclesiriusa.wordpress.com/2023/12/30/membuat-algoritma-dalam-bentuk-flow-chart/
 From <https://app.diagrams.net/#G1n0DsmRmdimwyiuFfkxFRZGJ7ldgxO1Ds> 
 
-
-
 7.Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐ 
 Referensi 1
 https://scratch.mit.edu/projects/944837928
-
 
 8.Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐ 
 https://miraclesiriusa.wordpress.com/2023/12/30/mencoba-algoritma-bubble-sort-menggunakan-java/
@@ -45,8 +36,7 @@ https://miraclesiriusa.wordpress.com/2023/12/30/mendaftar-mengeksplorasi-dan-men
 
 11.Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐ 
 Mendemonstrasikan Pembuatan Aplikasi  Game Pada Platform  Mobile  Desktop  Web Browser
-
-
+https://youtu.be/yg635MC2rGI?si=akh-k8BEJ_10tCQB
 
 12.Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐ 
 Referensi installer PostgreSQL Referensi tambahan 1
@@ -108,30 +98,24 @@ https://miraclesiriusa.wordpress.com/2023/12/31/mengeksplorasi-dan-menjelaskan-l
 https://miraclesiriusa.wordpress.com/2023/11/29/perlukah-kita-memboikot-x/
 https://miraclesiriusa.wordpress.com/2023/12/10/cara-menghafal-al-quran-dan-istiqomah-murojaah-saat-kuliah/
 
-
 26.Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐  
 Mendemonstrasikan Akses Konten Multimedia Image, Audio, Video
-
-
-
+https://youtu.be/ujeMEgITAVk?si=8YFbqh8Nbk6ywlUj
 
 27.Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐ 
 Mencoba Edit Konten Multimedia Image, Audio, Video
-
-
+https://youtu.be/3o7_qJ-8NRQ?si=9Sjtt2cIMcLe6MEU
 
 28.Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐ 
 Mencoba Pembuatan Game dan Simulasi Menggunakan Logo
-
-
+https://youtu.be/MSaIc2SjW04?si=iwhUB1P3rbsV14u0
 
 29.Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐ 
 https://miraclesiriusa.wordpress.com/2023/12/31/mencoba-pemrosesan-konten-multimedia-image-audio-menggunakan-google-colab/
 
 30.Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐ 
 Mencoba Web Tool AI Discriminative Image Classification
-
-
+https://youtu.be/7oJuPtEkcsI?si=8QYjqrdEMWU9bJgW
 https://miraclesiriusa.wordpress.com/2023/12/31/mencoba-web-tool-ai-discriminative-image-classification/
 
 31.Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐ 
@@ -155,7 +139,6 @@ https://miraclesiriusa.wordpress.com/2023/12/31/mendaftar-dan-mencoba-eksplorasi
 37.Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐ 
 https://miraclesiriusa.wordpress.com/2023/12/31/mencoba-protokol-komunikasi-iot-mqtt/
 
-
 38.Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐ 
 https://miraclesiriusa.wordpress.com/2023/12/31/mencoba-memproses-file-csv-menggunakan-google-colab/
 
@@ -172,10 +155,6 @@ https://miraclesiriusa.wordpress.com/2023/12/31/eksplorasi-artikel-jurnal-confer
 https://miraclesiriusa.wordpress.com/2023/12/31/menonton-video-presentasi-tugas-akhir-informatika/
 PRESENTASI TUGAS AKHIR PERANCANGAN SISTEM - NOVIANI JEMIMA - UNIVERSITAS BINA SARANA INFORMATIKA
 
-
-
-
-
 43.Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐ 
 https://miraclesiriusa.wordpress.com/2023/12/30/mengeksplorasi-seluruh-profesi-terkait-informatika-dan-profesi-yang-diminati/
 
@@ -183,20 +162,11 @@ https://miraclesiriusa.wordpress.com/2023/12/30/mengeksplorasi-seluruh-profesi-t
 https://www.duolingo.com/profile/hanniphammmm
 Eksplorasi Tools Untuk Belajar Bahasa Inggris Duolingo
 
-
-
-
 45.Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
-Eksploeasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk)
-
-
+https://youtu.be/tsj_0Hu53_E?si=Z8AtEbd_GDmcO0Lw
  
-
-
 46.Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐ 
-
 https://miraclesiriusa.wordpress.com/2023/12/30/eksplorasi-lowongan-pekerjaan-it/
-
 
 47.Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐ 
 https://miraclesiriusa.wordpress.com/2023/12/31/eksplorasi-lowongan-freelancer-it-upwork-toptal-freelancer-com/
@@ -206,7 +176,6 @@ https://miraclesiriusa.wordpress.com/2023/12/31/eksplorasi-dan-pilih-topik-yang-
 
 49.Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 https://miraclesiriusa.wordpress.com/2023/12/31/eksplorasi-top-github-project-yang-diminati/
-
 
 50.Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐ 
 https://miraclesiriusa.wordpress.com/2023/12/31/membangun-profil-linkedin-dan-mengikuti-akun-akun-inspirasif-bertema-informatika/
